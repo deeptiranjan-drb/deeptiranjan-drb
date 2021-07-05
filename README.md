@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @deeptiranjan-drb
+- 👋 Hi, I’m @deeptiranjandrb
 - 👀 I’m interested in learning new tech and builing new things
 - 🌱 I’m currently learning nodejs and reactjs
 - 💞️ I’m looking to collaborate on node and react related projects
