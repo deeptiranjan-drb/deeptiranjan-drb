@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning new tech and builing new things
 - 🌱 I’m currently learning nodejs and reactjs
 - 💞️ I’m looking to collaborate on node and react related projects
-- 📫 You can connect with me at deeptiranjan.in
+- 📫 You can connect with me at https://deeptiranjan.in/
 
 <!---
 deeptiranjan-drb/deeptiranjan-drb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
